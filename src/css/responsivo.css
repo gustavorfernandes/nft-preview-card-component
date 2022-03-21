@@ -1,8 +1,7 @@
 @media (max-width: 450px) {
     main {
-        margin: 10vh auto;
+        margin: 15vh auto;
         padding: 0;
-        box-shadow: hsl(217, 58%, 11%) 0px 25px 4px 15px, hsl(217, 56%, 9%) 0px 30px 1px 10px ;
     }
 
     .imagem-principal img {
@@ -30,12 +29,11 @@
 
 }
 
-@media (max-width: 380px) {
+@media (max-width: 400px) {
     main {
-        margin: 10vh auto;
+        margin: 12.5vh auto;
         width: 300px;
         padding: 0;
-        box-shadow: hsl(217, 58%, 11%) 0px 25px 4px 15px, hsl(217, 56%, 9%) 0px 30px 1px 10px ;
     }
 
     .imagem-principal img {

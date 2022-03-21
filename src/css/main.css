@@ -7,7 +7,7 @@ main {
     box-sizing: border-box;
     align-items: center;
     justify-content: center;
-    box-shadow: hsl(217, 58%, 9.5%) 0px 25px 4px 15px, hsl(217, 56%, 10.7%) 0px 30px 3px 45px ;
+    box-shadow: hsl(217, 58%, 9.9%) 0px 25px 4px 15px, hsl(217, 56%, 10.7%) 0px 30px 3px 45px ;
 }
 
 .imagens {
